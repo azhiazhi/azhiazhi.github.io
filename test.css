@@ -1,0 +1,11 @@
+#hello
+{
+  text-align: center;
+  color: red;
+  font-size: 100px;
+  font-weight: bold;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+body{
+  background-image: url(src/img/bg.jpg);
+}
